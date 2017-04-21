@@ -51,6 +51,7 @@
 * Create a feature for 'Book Review' content type.
     (Generate in modules directory, enable in Features management page, commit with repository.)
 * Create a 'New Books' view and display as a block.
+    (Set block to display the 3 newest book reviews as an unformatted list of linked titles. Don't use a pager.)
 * Add 4 book reviews.
 * Add 'New Books' view to 'Book Review' feature.
 * Recreate 'Book Review' feature.
