@@ -58,7 +58,7 @@
 * Create 'Reviewer' role and assign permissions.
     (The 'Reviewer' role should have all the same permissions as an authenticated user, and also be able to create new book reviews. They should be able to edit and delete their own book reviews, but not anyone else's.)
 * Create account for a user with 'Reviewer' role.
-* Create a coupon block on front page, only visible to authenticated users.
+* Create a coupon block on front page, visible to authenticated users but not anonymous.
     ("This week: use this coupon code to get 25% off on all Science Fiction!")
 * Export database at the end of project and include the .zip file in a db-backup folder within in the sites directory. Include it with your repository.
 
