@@ -12,8 +12,8 @@
 
 ##### Project Objectives:
 
-* Create a "Book Review" custom content type. Name the fields correctly and place in the correct order.
 * Create an "About" page and a "Locations" page.
+* Create a "Book Review" custom content type. Name the fields correctly and place in the correct order.
 * Create a Contact form with a "Contact" link in the main menu.
 * Set the 4 "Book Review" fields to required. The rating field must use either radio buttons or a menu.
 * Create a "New Books" view and display it as a block.
