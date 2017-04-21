@@ -37,6 +37,7 @@
 ### Project Stages:
 * Create an 'About' page and a 'Locations' page.
 * Enable 'Contact' module, create a 'Contact' form with a 'Contact' link in main menu.
+    (Set permissions to all users.)
 * Install Views module.
 * Install Features module.
 * Install Strongarm module.
