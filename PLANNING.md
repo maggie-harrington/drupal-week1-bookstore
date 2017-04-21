@@ -38,7 +38,7 @@
 * Create an 'About' page and a 'Locations' page.
 * Enable 'Contact' module, create a 'Contact' form with a 'Contact' link in main menu.
     (Set permissions to all users.)
-* Install Views module.
+* Install Views and Chaos Tools modules.
 * Install Features module.
 * Install Strongarm module.
 * Create 'Site Configuration' feature tracking site_name, site_slogan, theme_default and site_frontpage.
