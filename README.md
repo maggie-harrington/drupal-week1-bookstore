@@ -34,6 +34,8 @@
 * Start using both Core and Contrib modules.
 * Start using the Features module to keep your configuration settings in code.
 
+###### Please see PLANNING.md in the root level of the project folder if you would like additional details on my process in creating this project.
+
 
 ## Setup/Installation Requirements
 
