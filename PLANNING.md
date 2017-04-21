@@ -53,8 +53,7 @@
 * Create a 'New Books' view and display as a block.
     (Set block to display the 3 newest book reviews as an unformatted list of linked titles. Don't use a pager.)
 * Add 4 book reviews.
-* Add 'New Books' view to 'Book Review' feature.
-* Recreate 'Book Review' feature.
+* Add 'New Books' view to 'Book Review' feature, recreate feature.
     (Generate in modules directory, enable in Features management page, commit with repository.)
 * Create 'Reviewer' role and assign permissions.
     (The 'Reviewer' role should have all the same permissions as an authenticated user, and also be able to create new book reviews. They should be able to edit and delete their own book reviews, but not anyone else's.)
