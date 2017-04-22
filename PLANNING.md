@@ -61,6 +61,7 @@
 * Create a coupon block on front page, visible to authenticated users but not anonymous.
     ("This week: use this coupon code to get 25% off on all Science Fiction!")
 * Create 'Book Reviews' view to display 'Book Review' content as a page.
+* Recreate 'Book Review' feature to include 'Book Reviews' view.
 * Export database at the end of project and include the .zip file in a db-backup folder within in the sites directory. Include it with your repository.
 
 Submit to Epicenter before 5 pm!
