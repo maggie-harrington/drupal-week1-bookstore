@@ -22,6 +22,7 @@
 * Create a coupon block on the front page and make it only visible to authenticated users.
 * Create a "Site Configuration" feature tracking the specified Strongarm variables. Make changes and then recreate your "Site Configuration" feature.
 * Export your database at the end of your project and include the .zip file in a db-backup folder within in the sites directory. Include it with your repository.
+* Optional: Create a new full page View to display the book reviews in a different way.
 
 ##### This project demonstrates the following skills:
 
